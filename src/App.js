@@ -10,7 +10,7 @@ import Login from "./Auth/Login";
 const App = () => {
   return (
     <>
-      <Login />
+      <Header />
     </>
   );
 };
