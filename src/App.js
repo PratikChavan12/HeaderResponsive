@@ -10,7 +10,7 @@ import SortTaskByArray from "./React Pratice Stuff/SortTaskByArray";
 const App = () => {
   return (
     <>
-      <SortTaskByArray />
+      <Login />
     </>
   );
 };
